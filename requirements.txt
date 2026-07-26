@@ -1,0 +1,5 @@
+casadi>=3.6.0
+numpy
+matplotlib
+scipy
+plotly
